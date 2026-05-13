@@ -1,3 +1,4 @@
+<img width="512" height="409" alt="7510f3d0-5dac-4497-bde7-d804fe0beae1" src="https://github.com/user-attachments/assets/01addb5c-eb78-415f-9bc8-3d1810468111" />
 # Image-Capture-and-Video-Processing-Using-OpenCV
 Aim
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
@@ -92,23 +93,19 @@ cap.release()
 Output
 i) Write the frame as JPG image
 Captured image is saved as captured_image.jpg
-<img width="616" height="494" alt="image" src="https://github.com/user-attachments/assets/e7fb0088-15cc-4eaf-9a4a-7387ff71015b" />
+<img width="512" height="409" alt="7510f3d0-5dac-4497-bde7-d804fe0beae1" src="https://github.com/user-attachments/assets/272bcce1-f04c-46c3-89bb-38fda0fa50eb" />
 
 
 image
 ii) Display the video
 Live webcam video is displayed
-<img width="616" height="466" alt="image" src="https://github.com/user-attachments/assets/43b8a9e1-6c50-4519-94a0-279902e907ab" />
+<img width="512" height="389" alt="b2127c76-ae11-496a-b2be-4fbb36c11b46" src="https://github.com/user-attachments/assets/8d840ab0-5ad7-4ddd-8ee9-1480086fc86e" />
+
 
 image
 iii) Display the video by resizing the window
 Video is shown in resized resolution (640 × 480)
-<img width="308" height="462" alt="image" src="https://github.com/user-attachments/assets/652231b3-30e9-423d-a525-3296eda28049" />
-
-image
-iv) Rotate and display the video
-Video is displayed after rotation (90° clockwise)
-<img width="350" height="461" alt="image" src="https://github.com/user-attachments/assets/dd90e394-78d5-4184-904b-3d3ef0ea1a76" />
+<img width="266" height="389" alt="b87688fe-b009-4141-926c-37ebce0c4853" src="https://github.com/user-attachments/assets/d1d685ac-7790-4d18-a171-8d4a8c85df50" />
 
 
 image
