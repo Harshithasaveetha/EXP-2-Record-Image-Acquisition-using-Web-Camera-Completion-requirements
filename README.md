@@ -1,4 +1,4 @@
-<img width="512" height="409" alt="7510f3d0-5dac-4497-bde7-d804fe0beae1" src="https://github.com/user-attachments/assets/01addb5c-eb78-415f-9bc8-3d1810468111" />
+
 # Image-Capture-and-Video-Processing-Using-OpenCV
 Aim
 To write a Python program using OpenCV to capture an image from the webcam and perform the following operations:
